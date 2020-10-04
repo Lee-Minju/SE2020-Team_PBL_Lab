@@ -6,12 +6,12 @@
 팀원은 총 5명이며, 역할은 PM 1명, Developer 4명으로 나누어져 있고, 팀원마다 관여하는 Branch를 기준으로 다시 역할을 세부적으로 나누었다.
 
 
-'팀 업무 분담 & 담당 브랜치'
+## 팀 업무 분담 & 담당 브랜치
 
-PM(류관우) : Master, Release Branch 담당
-Feature Merge Devloper(김형규) : Develop Branch 담당
-Feature Developer(이민주, 황한혁) : Feature Branch 담당
-Bug Fixer(김건하) : Hotfix Branch 담당
+- PM(류관우) : Master, Release Branch 담당
+- Feature Merge Devloper(김형규) : Develop Branch 담당
+- Feature Developer(이민주, 황한혁) : Feature Branch 담당
+- Bug Fixer(김건하) : Hotfix Branch 담당
 
 
 ## 개발 정책
@@ -36,4 +36,3 @@ Bug Fixer(김건하) : Hotfix Branch 담당
 >>- Feature Branch는 Version 뒤에 개발한 기능 혹은 Issue를 명시한다. (e.g. 1.2.1.132-AR인식기능-2)
 >>- Release Branch또한 Mater Branch를 따른다.
 >>- Hotfix Branch는 branch해서 나온 Master Branch의 Version을 명시한다. (e.g. hotfix-1.2.1-1   =>  master-1.2.1 에서 나온 branch)
-
